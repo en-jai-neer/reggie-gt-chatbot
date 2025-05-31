@@ -210,7 +210,7 @@ This project was developed as part of CS/ECE 8803 Conversational AI at Georgia T
 - Technical architecture decisions
 - Future research directions
 
-**Paper**: [ECE_8803R_Final_Project_Report.pdf](link-to-paper)
+**Paper**: [ECE_8803R_Final_Project_Report.pdf](CS_8803R_Final_Project_Report.pdf)
 
 ## 🔗 Links
 
