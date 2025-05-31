@@ -1,0 +1,2 @@
+GT Chatbot Average Score: 7.25
+Base LLM Average Score: 5.8

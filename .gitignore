@@ -1,0 +1,6 @@
+RAG_cache/*
+RAG_data/*
+model_cache/*
+OPENAI_KEY.txt
+CANVAS_KEY.txt
+__pycache__
